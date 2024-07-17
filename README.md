@@ -50,7 +50,6 @@
 6. 결과 분석 및 정렬
     - 사용자가 선택한 정렬 기준에 따라 제품 목록 정렬.
     - 가격, 찜하기 수 등 다양한 기준으로 정렬된 제품 목록 제공.  
-<br/>
 
 ## 주요 EDA 결과
 1. 주요 기능성
@@ -87,6 +86,7 @@
 사용자 리뷰 데이터를 수집 및 분석하여 제품의 품질과 성능에 대한 추가적인 정보를 제공하는 시스템을 개발.
 
 이런 기능들이 추가되면 사용자 경험이 한층 개선될 것 같습니다.
+
 ![image](https://github.com/user-attachments/assets/48d8c096-6812-471e-bae1-a8be6bddd90f)
 ![image](https://github.com/user-attachments/assets/c30b807d-f0be-4e42-93d5-3c156c9de577)
 ![image](https://github.com/user-attachments/assets/74d6f710-b19a-4a0e-b5d5-e75a79a90fb6)
